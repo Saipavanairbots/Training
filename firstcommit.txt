@@ -1,0 +1,10 @@
+Hai this is my first commit. Refer following links
+
+Ubuntu with github-git-sshkey
+https://www.youtube.com/watch?v=OUdmg8oJVPs
+
+use xsel -i -b instead of pbcopy
+
+Git Branch-Master Theory:
+
+https://www.youtube.com/watch?v=to6tIdy5rNc
